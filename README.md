@@ -1,7 +1,7 @@
 # CommentToolBar
 
 
-/Users/qss/Desktop/CommentToolBar/CommentToolBar/1.png
+https://github.com/HuiiChung/CommentToolBar/blob/master/CommentToolBar/1.png
 
 
-/Users/qss/Desktop/CommentToolBar/CommentToolBar/2.png
+https://github.com/HuiiChung/CommentToolBar/blob/master/CommentToolBar/2.png
